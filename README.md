@@ -1,9 +1,9 @@
-👋 Hi there! 
-👀 I’m interested in Data Analytics, Data Science and User Research. 
-🌱 I’m currently sharping my skills in SQL, Phython and Tableau. 
+- 👋 Hi there! 
+- 👀 I’m interested in Data Analytics, Data Science and User Research. 
+- 🌱 I’m currently sharping my skills in SQL, Phython and Tableau. 
 
-📫 How to reach me: via [LinkedIn](https://www.linkedin.com/in/katjapoenigk/)
-😄 Pronouns: She/ Her 
+- 📫 How to reach me: via [LinkedIn](https://www.linkedin.com/in/katjapoenigk/)
+- 😄 Pronouns: She/ Her 
 
 
 <!---
